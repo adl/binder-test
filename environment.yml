@@ -4,3 +4,5 @@ channels:
   - adl
 dependencies:
   - spot
+  - graphviz
+
